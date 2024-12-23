@@ -10,7 +10,7 @@ public:
         while (l <= r) {
             int mid = l + (r - l) / 2;
             if (nums[mid] == k) return mid;
-            if (nums[l] <= nums[mid]) {
+            if (nums[l] < nums[mid]) {
                 l = mid + 1;
             } else {
                 r = mid - 1;
