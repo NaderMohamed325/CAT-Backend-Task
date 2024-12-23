@@ -21,7 +21,7 @@ This is a simple notes application built with Node.js, Express, and MongoDB. It 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/NaderMohamed325/notes-app.git
+    git clone [https://github.com/NaderMohamed325/notes-app.git](https://github.com/NaderMohamed325/CAT-Backend-Task)
     cd notes-app
     ```
 
